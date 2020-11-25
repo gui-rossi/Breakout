@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1462302166 source:/home/dainf/AllegroProjetoStandaloneV1/exemploAllegro.cpp
+	<iostream>
+	<allegro5/allegro.h>
+
